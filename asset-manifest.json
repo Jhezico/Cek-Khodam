@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Cek-Khodam.com/static/css/main.3964d1fd.css",
+    "main.js": "/Cek-Khodam.com/static/js/main.608c05ec.js",
+    "static/js/453.7bea9557.chunk.js": "/Cek-Khodam.com/static/js/453.7bea9557.chunk.js",
+    "static/media/Poppins-ThinItalic.ttf": "/Cek-Khodam.com/static/media/Poppins-ThinItalic.24564ea8dcd4b58262f6.ttf",
+    "static/media/Poppins-ExtraLightItalic.ttf": "/Cek-Khodam.com/static/media/Poppins-ExtraLightItalic.ea4777348043054c9c1b.ttf",
+    "static/media/Poppins-LightItalic.ttf": "/Cek-Khodam.com/static/media/Poppins-LightItalic.0eb48588e7c73cd4ef8a.ttf",
+    "static/media/Poppins-Italic.ttf": "/Cek-Khodam.com/static/media/Poppins-Italic.2374f1ccc2fd51e10aee.ttf",
+    "static/media/Poppins-MediumItalic.ttf": "/Cek-Khodam.com/static/media/Poppins-MediumItalic.592717c7f9ce7f13fd63.ttf",
+    "static/media/Poppins-SemiBoldItalic.ttf": "/Cek-Khodam.com/static/media/Poppins-SemiBoldItalic.a834bc75de7050c0e061.ttf",
+    "static/media/Poppins-BoldItalic.ttf": "/Cek-Khodam.com/static/media/Poppins-BoldItalic.e656da158b4eadbbe9ca.ttf",
+    "static/media/Poppins-ExtraBoldItalic.ttf": "/Cek-Khodam.com/static/media/Poppins-ExtraBoldItalic.05671a1c572233b9a6b2.ttf",
+    "static/media/Poppins-BlackItalic.ttf": "/Cek-Khodam.com/static/media/Poppins-BlackItalic.b9a6b48575f22d37ce51.ttf",
+    "static/media/Poppins-Thin.ttf": "/Cek-Khodam.com/static/media/Poppins-Thin.c0e3721e5939730f7cf2.ttf",
+    "static/media/Poppins-ExtraLight.ttf": "/Cek-Khodam.com/static/media/Poppins-ExtraLight.90da5cbbcdb0976dc884.ttf",
+    "static/media/Poppins-Light.ttf": "/Cek-Khodam.com/static/media/Poppins-Light.25b96349cf564e8ba0dc.ttf",
+    "static/media/Poppins-Regular.ttf": "/Cek-Khodam.com/static/media/Poppins-Regular.4211496d0e075ffe7c2f.ttf",
+    "static/media/Poppins-Medium.ttf": "/Cek-Khodam.com/static/media/Poppins-Medium.c5eb70982e90502d0d01.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Cek-Khodam.com/static/media/Poppins-SemiBold.090bd619384bb8d4c289.ttf",
+    "static/media/Poppins-Bold.ttf": "/Cek-Khodam.com/static/media/Poppins-Bold.300a4da54f1e6258b6f7.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Cek-Khodam.com/static/media/Poppins-ExtraBold.c2cc929b28dbf8a30cfd.ttf",
+    "static/media/Poppins-Black.ttf": "/Cek-Khodam.com/static/media/Poppins-Black.c78fe16aec75b2fc38d0.ttf",
+    "static/media/background.webp": "/Cek-Khodam.com/static/media/background.e3949a6a02432f1b1ede.webp",
+    "static/media/instagram.svg": "/Cek-Khodam.com/static/media/instagram.ba6afd7410ea0cde8b9e6c87b444ac3e.svg",
+    "static/media/github.svg": "/Cek-Khodam.com/static/media/github.1aad0a4190811b71f49a48cfde2d30b3.svg",
+    "static/media/linkedin.svg": "/Cek-Khodam.com/static/media/linkedin.0f02212b9ad24e90e71212a43ee6f9a2.svg",
+    "index.html": "/Cek-Khodam.com/index.html",
+    "main.3964d1fd.css.map": "/Cek-Khodam.com/static/css/main.3964d1fd.css.map",
+    "main.608c05ec.js.map": "/Cek-Khodam.com/static/js/main.608c05ec.js.map",
+    "453.7bea9557.chunk.js.map": "/Cek-Khodam.com/static/js/453.7bea9557.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3964d1fd.css",
+    "static/js/main.608c05ec.js"
+  ]
+}
